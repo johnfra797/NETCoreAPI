@@ -1,0 +1,11 @@
+C:\Users\JHON DAVID CASTILLO\Desktop\NETCore\CityAPINETCore\CityAPINETCore\bin\Debug\netcoreapp2.0\CityAPINETCore.deps.json
+C:\Users\JHON DAVID CASTILLO\Desktop\NETCore\CityAPINETCore\CityAPINETCore\bin\Debug\netcoreapp2.0\CityAPINETCore.runtimeconfig.json
+C:\Users\JHON DAVID CASTILLO\Desktop\NETCore\CityAPINETCore\CityAPINETCore\bin\Debug\netcoreapp2.0\CityAPINETCore.runtimeconfig.dev.json
+C:\Users\JHON DAVID CASTILLO\Desktop\NETCore\CityAPINETCore\CityAPINETCore\bin\Debug\netcoreapp2.0\CityAPINETCore.dll
+C:\Users\JHON DAVID CASTILLO\Desktop\NETCore\CityAPINETCore\CityAPINETCore\bin\Debug\netcoreapp2.0\CityAPINETCore.pdb
+C:\Users\JHON DAVID CASTILLO\Desktop\NETCore\CityAPINETCore\CityAPINETCore\obj\Debug\netcoreapp2.0\CityAPINETCore.csprojAssemblyReference.cache
+C:\Users\JHON DAVID CASTILLO\Desktop\NETCore\CityAPINETCore\CityAPINETCore\obj\Debug\netcoreapp2.0\CityAPINETCore.csproj.CoreCompileInputs.cache
+C:\Users\JHON DAVID CASTILLO\Desktop\NETCore\CityAPINETCore\CityAPINETCore\obj\Debug\netcoreapp2.0\CityAPINETCore.AssemblyInfoInputs.cache
+C:\Users\JHON DAVID CASTILLO\Desktop\NETCore\CityAPINETCore\CityAPINETCore\obj\Debug\netcoreapp2.0\CityAPINETCore.AssemblyInfo.cs
+C:\Users\JHON DAVID CASTILLO\Desktop\NETCore\CityAPINETCore\CityAPINETCore\obj\Debug\netcoreapp2.0\CityAPINETCore.dll
+C:\Users\JHON DAVID CASTILLO\Desktop\NETCore\CityAPINETCore\CityAPINETCore\obj\Debug\netcoreapp2.0\CityAPINETCore.pdb
